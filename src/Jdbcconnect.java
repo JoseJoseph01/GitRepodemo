@@ -6,6 +6,11 @@ public class Jdbcconnect {
 		
 		// TODO Auto-generated method stub
 
+		System.out.println("Test 01");	
+		
+		System.out.println("Test 02");	
+		
+		System.out.println("Test 03");	
 		
 		
 	}
